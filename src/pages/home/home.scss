@@ -1,0 +1,10 @@
+$color_fin: red;
+
+ion-navbar {
+    ion-title{
+        .toolbar-title{
+            color: $color_fin;
+        }
+    }
+}
+
